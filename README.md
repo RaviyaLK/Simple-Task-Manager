@@ -150,19 +150,6 @@ jsonwebtoken
 bcryptjs
  (password hashing)
 
-📸 Screens (Frontend)
-
-Login screen with logo
-
-Register screen
-
-Task list (per user)
-
-Add/Edit task
-
-Toggle completion
-
-Logout
 
 🧑‍💻 Development Notes
 
